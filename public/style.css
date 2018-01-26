@@ -1,0 +1,21 @@
+body {
+	background-color: lavender;
+}
+
+h1{
+	font-family:verdana;
+}
+
+main{
+	display: flex;
+	align-item: center;
+}
+
+#right{
+	margin-left: 100px;
+	margin-top: 200px;
+}
+
+space{
+	width : 200px;
+}
